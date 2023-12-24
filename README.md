@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m @zhuolhc
+- 👀 I’m interested in ... you
+- 🌱 I’m currently learning ... Damned Further Mathematics
+- 💞️ I’m looking to collaborate on ... the earth
+- 📫 How to reach me ... email:a@zhuoc.link 
 
 <!--
 **zhuolhc/zhuolhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
