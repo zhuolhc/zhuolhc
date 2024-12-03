@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... you
 - 🌱 I’m currently learning ... Damned Further Mathematics
 - 💞️ I’m looking to collaborate on ... the earth
-- 📫 How to reach me ... 
+- 📫 How to reach me ... here
 - 👯 I’m looking to collaborate on ... MAGA
 <!--
 **zhuolhc/zhuolhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
